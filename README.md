@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Preethampagad/Preethampagad/blob/main/Banner.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 <!--
-**Preethampagad/Preethampagad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Preethampagad/Preethampagad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...  -->
+
 🚀 Energetic and adaptable, I proactively handle diverse responsibilities, prioritize effectively, and achieve team objectives collaboratively. Competent in SQL programming and analytical tools like Excel, Tableau, and Power BI. Proficient with databases like MySQL and Microsoft SQL Server, as well as familiarity with cloud tech like Snowflake for agile data navigation. Seeking to leverage my analytical ability and communication skills to drive data-driven insights for business growth. 📊
 
 🔍 I thrive on tackling intricate projects that merge analytical thinking with creativity. One standout venture involved leading a team to develop a Smart Ticketing System for Short-Distance Transportation for enhancing user experience in BMTC city bus transportation in Bengaluru. This project aimed to revolutionize the manual ticketing process and significantly reduce costs by eliminating the need for expensive ticketing machines (which can cost around ₹10,000 per device). Instead, we introduced a conductor-authenticated QR ticketing system through a dedicated portal, streamlining the process and enhancing efficiency within city bus travel. 🎫🚌
