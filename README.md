@@ -26,6 +26,6 @@
 ## Find me around the web 🌎:
 - Get in Touch via [Mail](mailto:preethampagad4@gmail.com) 📧
 - Explore My Digital Playground in my [Portfolio](https://codepen.io/m0nica) 🚀
-- Sharing updates and connecting on [LinkedIn](https://www.linkedin.com/in/preethampagad/) 💼
+- Let's Connect on [LinkedIn](https://www.linkedin.com/in/preethampagad/) 💼
 
 
