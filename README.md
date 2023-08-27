@@ -1,6 +1,6 @@
 ###👋 Hi I'm Preetham M Pagad,
 
-<img src="https://github.com/Preethampagad/Preethampagad/blob/main/Banner.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/Preethampagad/Preethampagad/blob/main/Banner.png">
 <!--
 **Preethampagad/Preethampagad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
