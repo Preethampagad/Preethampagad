@@ -70,3 +70,20 @@
   </div>
 </div>
 
+## Find me around the web 🌎:
+<div style="display: flex; align-items: center;">
+  <div style="margin-left: 20px;">
+    <ul style="list-style-type: disc; padding-left: 20px;">
+      <li>Learning in public on Twitch or monica.dev 📹 ✍🏾</li>
+      <li>Tinkering with interactions on Codepen 🏓</li>
+      <li>Sharing updates on LinkedIn 💼</li>
+    </ul>
+  </div>
+</div>
+
+## Find me around the web 🌎:
+- Learning in public on [Twitch](https://www.twitch.tv/blacktechdiva) or [monica.dev](https://www.monica.dev) 📹 ✍🏾
+- Tinkering with interactions on [Codepen](https://codepen.io/m0nica) 🏓
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/preethampagad/) 💼
+
+
