@@ -24,7 +24,7 @@
 🌱 Beyond my analytical pursuits, I am deeply committed to community well-being. I volunteered with NSS, spreading vaccination awareness and joining initiatives like Swachh Bharat Abhiyan, planting trees, and leading public awareness campaigns. Trained in first aid and leadership at The Bharat Scouts and Guides, advocating against tobacco and drugs. These experiences shape my holistic problem-solving approach and passion for impact. 👥🌍
 
 ## Find me around the web 🌎:
-- Get in Touch via [Mail](mailto:preethampagad4@gmail.com) 📧
+- Get in Touch: preethampagad4@gmail.com 📧
 - Explore My Digital Playground in my [Portfolio](https://codepen.io/m0nica) 🚀
 - Let's Connect on [LinkedIn](https://www.linkedin.com/in/preethampagad/) 💼
 
