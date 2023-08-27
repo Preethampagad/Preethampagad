@@ -25,8 +25,8 @@
 
 ## Find me around the web 🌎:
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Web%20Gif.gif">
-    <img align="left" width="80" height="80" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Web%20Gif.gif">
+  <a href="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif">
+    <img align="left" width="80" height="80" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif">
   </a>
   <div style="margin-left: 30px;">
       - Learning in public on Twitch or monica.dev 📹 ✍🏾 <br>
