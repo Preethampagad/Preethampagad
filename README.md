@@ -39,3 +39,18 @@
   - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
   - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
   - Sharing updates on <a href="https://www.linkedin.com/in/preethampagad/">LinkedIn</a> 💼
+
+## Find me around the web 🌎:
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Web%20Gif.gif">
+    <img align="left" width="150" height="150" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Web%20Gif.gif">
+  </a>
+  <div style="margin-left: 20px;">
+    <ul style="list-style-type: disc; padding-left: 20px;">
+      <li>Learning in public on Twitch or monica.dev 📹 ✍🏾</li>
+      <li>Tinkering with interactions on Codepen 🏓</li>
+      <li>Sharing updates on LinkedIn 💼</li>
+    </ul>
+  </div>
+</div>
+
