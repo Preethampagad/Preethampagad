@@ -29,10 +29,26 @@
     <img align="left" width="80" height="80" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif">
   </a>
   <div style="margin-left: 30px;">
-      - Learning in public on Twitch or monica.dev 📹 ✍🏾 <br>
-      - Tinkering with interactions on Codepen 🏓 <br>
-      - Sharing updates on LinkedIn 💼
+    <ul style="list-style-type: disc; padding-left: 20px;">
+      <li>Learning in public on Twitch or monica.dev 📹 ✍🏾</li>
+      <li>Tinkering with interactions on Codepen 🏓</li>
+      <li>Sharing updates on LinkedIn 💼</li>
+    </ul>
  </div>
+</div>
+
+## Find me around the web 🌎:
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif">
+    <img align="left" width="80" height="80" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif">
+  </a>
+  <div style="margin-left: 20px;">
+    <ul style="list-style-type: disc; padding-left: 20px;">
+      <li>Learning in public on Twitch or monica.dev 📹 ✍🏾</li>
+      <li>Tinkering with interactions on Codepen 🏓</li>
+      <li>Sharing updates on LinkedIn 💼</li>
+    </ul>
+  </div>
 </div>
 
 ## Find me around the web 🌎: <a href=" https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif"><img align="left" width="150" height="150" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif"></a>
