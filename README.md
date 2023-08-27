@@ -24,66 +24,8 @@
 🌱 Beyond my analytical pursuits, I am deeply committed to community well-being. I volunteered with NSS, spreading vaccination awareness and joining initiatives like Swachh Bharat Abhiyan, planting trees, and leading public awareness campaigns. Trained in first aid and leadership at The Bharat Scouts and Guides, advocating against tobacco and drugs. These experiences shape my holistic problem-solving approach and passion for impact. 👥🌍
 
 ## Find me around the web 🌎:
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif">
-    <img align="left" width="80" height="80" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif">
-  </a>
-  <div style="margin-left: 30px;">
-    <ul style="list-style-type: disc; padding-left: 20px;">
-      <li>Learning in public on Twitch or monica.dev 📹 ✍🏾</li>
-      <li>Tinkering with interactions on Codepen 🏓</li>
-      <li>Sharing updates on LinkedIn 💼</li>
-    </ul>
- </div>
-</div>
-
-## Find me around the web 🌎:
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif">
-    <img align="left" width="80" height="80" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif">
-  </a>
-  <div style="margin-left: 20px;">
-    <ul style="list-style-type: disc; padding-left: 20px;">
-      <li>Learning in public on Twitch or monica.dev 📹 ✍🏾</li>
-      <li>Tinkering with interactions on Codepen 🏓</li>
-      <li>Sharing updates on LinkedIn 💼</li>
-    </ul>
-  </div>
-</div>
-
-## Find me around the web 🌎: <a href=" https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif"><img align="left" width="150" height="150" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif"></a>
-  - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-  - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-  - Sharing updates on <a href="https://www.linkedin.com/in/preethampagad/">LinkedIn</a> 💼
-
-## Find me around the web 🌎:
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Web%20Gif.gif">
-    <img align="left" width="150" height="150" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Web%20Gif.gif">
-  </a>
-  <div style="margin-left: 20px;">
-    <ul style="list-style-type: disc; padding-left: 20px;">
-      <li>Learning in public on Twitch or monica.dev 📹 ✍🏾</li>
-      <li>Tinkering with interactions on Codepen 🏓</li>
-      <li>Sharing updates on LinkedIn 💼</li>
-    </ul>
-  </div>
-</div>
-
-## Find me around the web 🌎:
-<div style="display: flex; align-items: center;">
-  <div style="margin-left: 20px;">
-    <ul style="list-style-type: disc; padding-left: 20px;">
-      <li>Learning in public on Twitch or monica.dev 📹 ✍🏾</li>
-      <li>Tinkering with interactions on Codepen 🏓</li>
-      <li>Sharing updates on LinkedIn 💼</li>
-    </ul>
-  </div>
-</div>
-
-## Find me around the web 🌎:
-- Learning in public on [Twitch](https://www.twitch.tv/blacktechdiva) or [monica.dev](https://www.monica.dev) 📹 ✍🏾
-- Tinkering with interactions on [Codepen](https://codepen.io/m0nica) 🏓
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/preethampagad/) 💼
+- Get in Touch via [Mail](mailto:your.email@example.com) 📧
+- Explore My Digital Playground in my [Portfolio](https://codepen.io/m0nica) 🚀
+- Sharing updates and connecting on [LinkedIn](https://www.linkedin.com/in/preethampagad/) 💼
 
 
