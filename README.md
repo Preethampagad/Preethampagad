@@ -29,7 +29,7 @@
     <img align="left" width="100" height="100" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Web%20Gif.gif">
   </a>
   <div style="margin-left: 30px;">
-      - Learning in public on Twitch or monica.dev 📹 ✍🏾 <br>
+        Learning in public on Twitch or monica.dev 📹 ✍🏾 <br>
       - Tinkering with interactions on Codepen 🏓 <br>
       - Sharing updates on LinkedIn 💼
  </div>
