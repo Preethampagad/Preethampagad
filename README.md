@@ -1,4 +1,4 @@
-##👋 Hi I'm Preetham M Pagad,
+# Hi, Preetham M Pagad 👋🏾 👩🏾‍💻
 
 <img src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Banner.png">
 <!--
