@@ -35,3 +35,7 @@
  </div>
 </div>
 
+## Find me around the web 🌎: <a href=" https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif"><img align="left" width="150" height="150" src="https://github.com/Preethampagad/Preethampagad/blob/main/Images%20and%20Gifs/Gif%20without%20background.gif"></a>
+  - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+  - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+  - Sharing updates on <a href="https://www.linkedin.com/in/preethampagad/">LinkedIn</a> 💼
